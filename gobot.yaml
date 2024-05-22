@@ -1,0 +1,3 @@
+project_id: "example-project"
+region: "us-east4"
+model: "gemini-1.0-pro"
